@@ -2,6 +2,6 @@
 
 ## Hi there, I'm Saad Najm! 👋
 
-I’m a software engineer, I like drawing , coding and learning new stuff.
+I'm a software engineer who loves to always learn, read books, and explore new technologies. I enjoy coding, drawing, and finding creative solutions to problems.
 
 -   How to reach me: saadnajm.msc@gmail.com
