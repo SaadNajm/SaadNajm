@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://images8.alphacoders.com/131/1314566.jpeg" width="100"/>
+  <img src="https://images8.alphacoders.com/131/1314566.jpeg" width="100" height="100"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/saad-najm/">
@@ -14,15 +14,13 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=saadnajm&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
-
-
+I am a Software Engineer from Morocco. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
