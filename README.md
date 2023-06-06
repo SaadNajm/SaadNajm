@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://images8.alphacoders.com/131/1314566.jpeg" width="100" height="100"/>
+  <img src="https://thumbs.gfycat.com/NextDampBittern-max-1mb.gif" width="100" height="100"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/saad-najm/">
